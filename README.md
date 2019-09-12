@@ -19,3 +19,6 @@ In order to run this project, the following libraries are required:
 - matplotlib
 - pickle
 - seaborn
+
+## Acknowledgements
+I would like to ackonwledge Udacity for providing materials as part of the Data Scientist Nanodegree and IBM for the datasets, insights and support.
